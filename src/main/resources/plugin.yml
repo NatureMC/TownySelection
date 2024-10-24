@@ -1,0 +1,6 @@
+name: TownySelection
+version: '1.0-SNAPSHOT'
+main: me.oz1p.townyselection.TownySelection
+api-version: '1.20'
+authors: [ Oz1p ]
+depend: [Towny]
